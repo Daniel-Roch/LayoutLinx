@@ -4,6 +4,7 @@
         display: flex;
         flex-direction: column;
         margin: 0 15px 0 15px;
+        align-items: center;
     }
     .divText{
         margin-top: 10px;
@@ -11,17 +12,9 @@
     .text{
         margin-bottom: 45px;
     }
-    .formInput{
-        width: 385px;
-        height: 30px;
-    }
-    .form button{
-        width: 383px;
-        height: 39px;
-    }
     /* Line */
     .line{
-        width: 100px;
+        width: 50px;
     }
     .pLine{
         font-size: 20px;
@@ -30,6 +23,7 @@
     #cards{
         display: flex;
         flex-direction: column;
+        margin: 0px;
     }
     .card{
         display: grid;
@@ -73,7 +67,7 @@
         flex-direction: column;
     }
     .inputShare{
-        width: 391px;
+        width: 350px;
         height: 30px;
     }
 }
