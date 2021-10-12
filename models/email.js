@@ -2,7 +2,6 @@ fetch('https://frontend-intern-challenge-api.iurykrieger.vercel.app/products?pag
 .then(resp => resp.json())
 .then(json => criaCards(json.products))
 
-
 function criaCards(card){
     for(let i = 0; i<2; i++){
         $('#cards').append(`
