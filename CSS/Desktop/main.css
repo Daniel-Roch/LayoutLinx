@@ -244,6 +244,5 @@
     opacity: 1;
 }
 .btnShare:active{
-    /* background: #c4c4c4; */
     border: 1px solid #b9b7b7;
 }

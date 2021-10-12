@@ -12,6 +12,6 @@ Todo o *Layout* da página foi desenvolvido sem frameworks e bibliotecas, com **
 
 Basta abrir o index.html.
 
-## Netifly
+## Netlifly
 
 Você consegue também acessar o Desktop através do Netifly, segue o link para acessar o live preview: [LayoutLinx](https://unruffled-carson-b22f43.netlify.app/)
