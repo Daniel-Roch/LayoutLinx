@@ -15,3 +15,14 @@ Basta abrir o index.html.
 ## Netlifly
 
 Você consegue também acessar o Desktop através do Netifly, segue o link para acessar o live preview: [LayoutLinx](https://unruffled-carson-b22f43.netlify.app/)
+
+## Feito
+
+Consegui criar uma página Responsiva, e outra página para a parte do e-mail. Além de uma estrutura de fácil entendimento para fácil manuseio para utilizar em outras partes como `componentes`.
+
+Utilizei a pasta `views` para receber a `API` e devolver para o HTML sua resposta, utilizando `JQuery`.
+
+## Continuação do projeto...
+
+Implementar um `<span>` dizendo qual `<input>` estaria com as informações erradas, onde poderia fazer a validação em **Regex**.
+
