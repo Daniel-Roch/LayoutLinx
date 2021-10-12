@@ -18,7 +18,7 @@ function criaCards(card){
     }
 }
 
-//generating more items: 
+/* //generating more items: 
 const btnMore = document.querySelector("#moreBtn")
 let click = 1
 
@@ -28,4 +28,4 @@ btnMore.addEventListener('click',(e)=>{
     fetch(`https://frontend-intern-challenge-api.iurykrieger.vercel.app/products?page=${click}`)
     .then(res => res.json())
     .then(json => criaCards(json.products))
-})
+}) */
