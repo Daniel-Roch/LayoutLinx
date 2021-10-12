@@ -1,0 +1,20 @@
+footer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    background: #707070;
+    border: 1px solid #707070;
+    padding: 110px 0px 100px 0px;
+    
+
+    clip-path: polygon(100% 0%, 0% 31%, 0% 100%, 100% 100%);
+}
+.divFooter{
+    margin-top: 30px;
+
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 12px;
+}
