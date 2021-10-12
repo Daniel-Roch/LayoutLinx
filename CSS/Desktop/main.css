@@ -1,4 +1,4 @@
-.firstSec{
+.firstSecMain{
     display: grid;
     grid-template-areas: 
     "text form";
@@ -11,7 +11,7 @@
     letter-spacing: 0px;
     color: #888888;
 }
-.text{
+.divText{
     grid-area: text;
     display: flex;
     flex-direction: column;
@@ -21,6 +21,12 @@
     font: normal normal normal 12px/18px Helvetica Neue;
     color: #888888;
     
+}
+.titleText{
+    font-size: 20px;
+}
+.text{
+    font-size: 12px;
 }
 .form{
     grid-area: form;
@@ -72,11 +78,8 @@
     border: 0.3px solid #888888;
 }
 .pLine{
-    text-align: left;
     font: normal normal bold 18px/16px Helvetica Neue;
-    letter-spacing: 0px;
     color: #888888;
-    opacity: 1;
 }
 
 /*-------------------- Part of cards ------------------------- */

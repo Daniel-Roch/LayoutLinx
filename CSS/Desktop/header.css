@@ -12,8 +12,12 @@ header{
     justify-content: center;
     align-items: center;
     gap: 20px;
+    font-size: 14px;
 
     margin-bottom: 50px;
+}
+.firstPHeader{
+    font-size: 20px;
 }
 .spanHeader{
     font-family: Arial, Helvetica, sans-serif;
